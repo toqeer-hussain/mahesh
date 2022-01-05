@@ -1,0 +1,29 @@
+.input__Search {
+  border: none;
+  width: "270px";
+}
+
+.flex__item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border-radius: 5px;
+}
+.input__Search:focus {
+  outline: none;
+}
+
+.icon__class {
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  /* margin-top: 20px; */
+
+  font-size: 18px;
+}
+.bi-person-circle {
+  font-size: 30px;
+  margin-left: 25px;
+  /* margin-top: 10px; */
+}
